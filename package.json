@@ -1,0 +1,24 @@
+{
+  "name": "nodeJS-Firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LovePick/NodeJS-Firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LovePick/NodeJS-Firebase/issues"
+  },
+  "homepage": "https://github.com/LovePick/NodeJS-Firebase#readme",
+  "dependencies": {
+    "fcm-node": "^1.5.2",
+    "firebase-admin": "^8.4.0"
+  }
+}
